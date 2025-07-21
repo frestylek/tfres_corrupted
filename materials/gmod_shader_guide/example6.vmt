@@ -1,0 +1,12 @@
+screenspace_general
+{
+	$basetexture "models/props_combine/tprings_globe"
+
+	$c0_x 0
+	$cull 1
+	$depthtest 1
+	$pixshader example5_ps20b
+	$softwareskin 1
+	$vertexnormal 1
+	$vertexshader example6_vs20
+}
